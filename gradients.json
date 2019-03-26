@@ -1341,3 +1341,11 @@
         "colors": ["#bdc3c7","#2c3e50"]
     }
 ]
+[
+    {
+        …
+    },
+    {
+      "name": "LinkedIn Blue to Accent Blue",
+      "colors": ["#0077B5", "#00A0DC"]
+    }
